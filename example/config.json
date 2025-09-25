@@ -1,5 +1,5 @@
 {
     "command": "SPI_WriteComm ({});",
     "data": "SPI_WriteData ({});",
-    "delay": "Delay ({});"
+    "delay": "Delay({});"
 }
